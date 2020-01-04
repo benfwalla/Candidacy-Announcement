@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="836f8c70-0c59-4473-93ff-e410507b3f5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Candidacy-Announcement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt-2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gpt-2/src/announcements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gpt-2/src/announcementsV2.npz" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gpt-2/src/announcementsV2.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gpt-2/src/new_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallace_2020.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt-2" beforeDir="false" afterPath="$PROJECT_DIR$/gpt-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gpt-2/encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt-2/src/encode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gpt-2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt-2/src/train.py" afterDir="false" />
     </list>
@@ -108,7 +99,7 @@
       <updated>1578102009824</updated>
       <workItem from="1578102040792" duration="3170000" />
       <workItem from="1578109807234" duration="965000" />
-      <workItem from="1578110984467" duration="10155000" />
+      <workItem from="1578110984467" duration="10773000" />
     </task>
     <servers />
   </component>
