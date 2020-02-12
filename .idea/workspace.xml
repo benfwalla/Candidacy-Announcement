@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="836f8c70-0c59-4473-93ff-e410507b3f5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wallace_2020_v2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallace_2020_v3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallace_2020.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallace_2020_v1.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +93,7 @@
       <updated>1578102009824</updated>
       <workItem from="1578102040792" duration="3170000" />
       <workItem from="1578109807234" duration="965000" />
-      <workItem from="1578110984467" duration="13517000" />
+      <workItem from="1578110984467" duration="13629000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1578177531190</created>
